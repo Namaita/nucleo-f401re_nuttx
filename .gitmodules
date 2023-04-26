@@ -1,0 +1,6 @@
+[submodule "apps"]
+	path = apps
+	url = git@github.com:advaly/nuttx-apps.git
+[submodule "nuttx"]
+	path = nuttx
+	url = git@github.com:advaly/nuttx.git
